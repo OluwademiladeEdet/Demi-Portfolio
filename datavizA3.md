@@ -8,4 +8,6 @@ https://public.tableau.com/profile/ben7095#!/vizhome/SvKDraft/Yes_ThisTab_
 To re-create the visualisation I used a tool named basalmiq to create a wireframe depicting what direction I wanted to go in. I felt it necessary to change the story being told from one that glorified Alan Shearer's goal recored to one that predicted how current stars might fare in challenging his record.
 https://github.com/OluwademiladeEdet/Demi-Portfolio/blob/master/Mockup%201.png
 
+# Feedback
+Before moving on to create the new visualisation, I consulted two peers (respoders) to ask about their first impressions of the wireframe.
 
