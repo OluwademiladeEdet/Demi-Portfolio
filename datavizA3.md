@@ -10,4 +10,4 @@ https://github.com/OluwademiladeEdet/Demi-Portfolio/blob/master/Mockup%201.png
 
 # Feedback
 Before moving on to create the new visualisation, I consulted two peers (respoders) to ask about their first impressions of the wireframe.
-
+https://github.com/OluwademiladeEdet/Demi-Portfolio/blob/master/Mockup%202.png
