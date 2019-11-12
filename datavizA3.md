@@ -4,4 +4,6 @@ This visualisation assignment involved critiquing a data visualisation that I fo
 # Original visualisation
 https://public.tableau.com/profile/ben7095#!/vizhome/SvKDraft/Yes_ThisTab_
 
+# Action
+To re-create the visualisation I used a tool named basalmiq to create a wireframe depicting what direction I wanted to go in. I felt it necessary to change the story being told from one that glorified Alan Shearer's goal recored to one that predicted how current stars might fare in challenging his record.
 
