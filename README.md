@@ -12,6 +12,6 @@ Here's where all of my cool data visualizations will go.
 
 # [Visualization Assignment 1](/dataviz2.md)
 
-# [Visualization Assignment 3](/datavizA3.md)
+# [Visualization Assignment 2](/datavizA3.md)
 
 # [Scrapbook](/Scrapbook.md)
