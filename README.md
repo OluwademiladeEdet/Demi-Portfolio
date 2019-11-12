@@ -10,6 +10,8 @@ I hope to learn how to better utilise data in presentations. Create presentation
 # Portfolio
 Here's where all of my cool data visualizations will go.
 
-# [Visualization assignments](/dataviz2.md)
+# [Visualization assignment 1](/dataviz2.md)
+
+
 
 # [Scrapbook](/Scrapbook.md)
