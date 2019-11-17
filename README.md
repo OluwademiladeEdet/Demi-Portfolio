@@ -15,3 +15,6 @@ Here's where all of my cool data visualizations will go.
 # [Visualization Assignment 2](/datavizA3.md)
 
 # [Scrapbook](/Scrapbook.md)
+
+# [Final Project Outline](/FinalProject_Demi.md)
+
