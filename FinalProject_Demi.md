@@ -15,4 +15,5 @@ My Message: Co- Living is the living best option for you
 # Chosen Visualization Method
 Tableau
 
-# Sketch
+# Preliminary Sketch
+![](/IMG_7793.JPG)
