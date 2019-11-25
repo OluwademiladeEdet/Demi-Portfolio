@@ -106,11 +106,27 @@ Questions
 - Audience would have liked to know how they could access the service 
 
 # Revisions/Additions
-Based on the feedback recieved, the area of main concern is the 'call to action', the part of the story that tells the audience what to do and why. Additionally, user research highlighted a good background story but felt there was no main story - the reason being that "It feels like opinions rather than facts" & "Can a comparison be made between these circumstances and succesful coliving in another city". Another common theme in feedback was the fact that the storyboard felt too educational. However, the point of the story was not to give/advertise to the user options in the coliving industry, but rather to create awareness of the benefits and educate the audience on how the data shows co-living would be beneficial to Pittsburgh. On this note the revisions to the original storyboard were to end the story with a more compelling call to action. 
+Based on the feedback recieved, the area of main concern is the 'call to action', the part of the story that tells the audience what to do and why. Additionally, user research highlighted a good background story but felt there was no main story - the reason being that "It feels like opinions rather than facts" & "Can a comparison be made between these circumstances and succesful coliving in another city". Another common theme in feedback was the fact that the storyboard felt too educational. However, the point of the story was not to give/advertise to the user options in the coliving industry, but rather to create awareness of the benefits and educate the audience on how the data shows co-living would be beneficial to Pittsburgh. On this note the revisions to the original storyboard were to end the story with a more compelling call to action and to change the story order to begin with the core topic - coliving. 
 
 # Storyboard - Revised
 
       Pittsburgh loves co-living
+      
+# What makes the perfect incubator for co-living?
+![](/PittCo.png)
+
+Pittsburgh represents a city well aligned with circumstances for co-living. Apart from 68 Colleges and Universities churning out over 40'000 graduates a year, immigration statistics show that employment and other opportunities have made the developing city a hotbed for the next generation. With a steady supply of young working class professionals, individuals with 'new generation' lifestyle choices - such as prolonged bachelor/bachelorette life stages, shift of focus to careers over family building and a general emphasis on mobility (not being tied down to a singular geographic region).
+
+# What is co-living?
+
+Co-living is a type of intentional community providing shared housing for people with shared intentions. This may simply be coming together for activities such as meals and discussion in the common living areas yet may extend to shared workspace and collective endeavours such as living more sustainably.
+
+Co-living as a modern concept loosely dates back nearly a century in the form of tenements yet may also be considered related to much older forms of communal living such as the longhouse. Its contemporary form has only gained prominence in recent years as a combination of factors have led to interest in this type of living space, including a lack of housing opportunities, the cost of independent accommodation and raising finance to purchase, plus a growing interest in lifestyles not dependent upon long-term contracts.
+
+![](/Colive.png)
+
+
+     Pittsburgh is the perfect fit for co-living because it has the perfect mix of scenario's for it to thrive.
       
 # Why Pittsburgh?
 
@@ -123,22 +139,6 @@ Aside from steel, Pittsburgh has led in manufacturing of aluminum, glass, shipbu
 Today, Google, Apple Inc., Bosch, Facebook, Uber, Nokia, Autodesk, Microsoft and IBM are among 1,600 technology firms generating $20.7 billion in annual Pittsburgh payrolls. The area has served as the long-time federal agency headquarters for cyber defense, software engineering, robotics, energy research and the nuclear navy. The area is home to 68 colleges and universities, including research and development leaders Carnegie Mellon University and the University of Pittsburgh. The nation's eighth-largest bank, eight Fortune 500 companies, and six of the top 300 U.S. law firms make their global headquarters in the area, while RAND, BNY Mellon, Nova, FedEx, Bayer and NIOSH have regional bases that helped Pittsburgh become the sixth-best area for U.S. job growth.
 
 ![](/Pittsburgh.png)
-
-# What is co-living?
-
-Co-living is a type of intentional community providing shared housing for people with shared intentions. This may simply be coming together for activities such as meals and discussion in the common living areas yet may extend to shared workspace and collective endeavours such as living more sustainably.
-
-Co-living as a modern concept loosely dates back nearly a century in the form of tenements yet may also be considered related to much older forms of communal living such as the longhouse. Its contemporary form has only gained prominence in recent years as a combination of factors have led to interest in this type of living space, including a lack of housing opportunities, the cost of independent accommodation and raising finance to purchase, plus a growing interest in lifestyles not dependent upon long-term contracts.
-
-![](/Colive.png)
-
-
-     Pittsburgh is the perfect fit for co-living because it has the perfect mix of scenario's for it to thrive.
-     
-# What makes a perfect incubator for co-living?
-![](/PittCo.png)
-
-Pittsburgh represents a city well aligned with circumstances for co-living. Apart from 68 Colleges and Universities churning out over 40'000 graduates a year, immigration statistics show that employment and other opportunities have made the developing city a hotbed for the next generation. With a steady supply of young working class professionals, individuals with 'new generation' lifestyle choices - such as prolonged bachelor/bachelorette life stages, shift of focus to careers over family building and a general emphasis on mobility (not being tied down to a singular geographic region).
 
 # What do Millenials want that co-living offers?
 ![](/Benefits.png)
