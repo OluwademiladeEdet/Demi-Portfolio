@@ -140,12 +140,16 @@ Co-living as a modern concept loosely dates back nearly a century in the form of
 
 Pittsburgh represents a city well aligned with circumstances for co-living. Apart from 68 Colleges and Universities churning out over 40'000 graduates a year, immigration statistics show that employment and other opportunities have made the developing city a hotbed for the next generation. With a steady supply of young working class professionals, individuals with 'new generation' lifestyle choices - such as prolonged bachelor/bachelorette life stages, shift of focus to careers over family building and a general emphasis on mobility (not being tied down to a singular geographic region).
 
-# What do Millenials want & what does co-living offer?
+# What do Millenials that co-living offers?
 ![](/Benefits.png)
 
 By utilising co-living housing choices that create easier, more convenient living situations, the target market (which is growing in size as evidenced in the story) can better live a lifestyle that is more desirable from their perspective .
 
-# Successful Co-Living Models
+# Successful Co-Living Model
+![](Model.png)
+
+# Review
+By adding the sections that show what coliving offers the audience & data from a successful co-living model in existence, the story feels more compelling, more truthful and more actionable. Now the audience has gained knowledge of how it can benefit them directly as well as a starting point for investigation into accessing the service. This closes the loop as mentioned in the user feedback.
 
 
 
