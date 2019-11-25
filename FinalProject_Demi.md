@@ -65,4 +65,47 @@ Pittsburgh represents a city well aligned with circumstances for co-living. Apar
 
 
 
+# User Research Protocol
+After the storyboard creation was completed. The next step was creation of User research protocol to evaluate how the intended audience would react to the potential story being told.
+
+# Goals / Questions
+Goals
+- Evaluate the story
+- Evaluate the audience comprehension levels
+- Identify what needs fixing/removal/addition
+
+Questions
+- Do people understand the entire narrative?
+- Is the narrative compelling?
+- Can the audience recall factors that align Pittsburgh with co-living?
+- Is there a call to action?
+
+# Metrics
+- Whether participants understand what the site is about
+- Whether participants seem engaged/excited to learn more and click into content
+
+# Methods
+- 10 Minute Interview
+- Interview Target Participant: Pittsburgh college student (preferably living in off campus housing)
+- Interview Notes
+- In Person
+
+# Script
+- Introduction: Purpose of Interview, Reason participant was chosen
+- Observation: Participant goes through storyboard
+- Questions
+   - Did you understand the general idea?
+   - Do you agree/believe what you've just read?
+   - Can you recall factors that align Pittsburgh with co-living?
+   - Do you feel compelled to do anything?
+   - Can you make any recommendations/things that could have helped make this more intruiguing to you?
+
+# Feedback
+- The story makes sense
+- Audience would have liked to know how this could benefit them
+- Audience would have liked to know how they could access the service 
+
+
+
+
 
