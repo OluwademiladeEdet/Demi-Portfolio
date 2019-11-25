@@ -105,7 +105,8 @@ Questions
 - Audience would have liked to know how this could benefit them
 - Audience would have liked to know how they could access the service 
 
-
+# Revisions/Additions
+Based on the feedback recieved, the area of main concern is the 'call to action', the part of the story that tells the audience what to do and why. However, the point of the story was not to give/advertise to the user options in the coliving industry, but rather to create awareness of the benefits. On this note the revisions to the original storyboard were to end the story with a more compelling call to action.
 
 
 
