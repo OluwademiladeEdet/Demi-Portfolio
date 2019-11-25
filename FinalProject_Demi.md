@@ -53,7 +53,7 @@ Co-living is a type of intentional community providing shared housing for people
 
 Co-living as a modern concept loosely dates back nearly a century in the form of tenements yet may also be considered related to much older forms of communal living such as the longhouse. Its contemporary form has only gained prominence in recent years as a combination of factors have led to interest in this type of living space, including a lack of housing opportunities, the cost of independent accommodation and raising finance to purchase, plus a growing interest in lifestyles not dependent upon long-term contracts.
 
-![] (/Colive.png)
+![](/Colive.png)
 
 
 
