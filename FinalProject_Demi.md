@@ -59,6 +59,9 @@ Co-living as a modern concept loosely dates back nearly a century in the form of
      Pittsburgh is the perfect fit for co-living because it has the perfect mix of scenario's for it to thrive.
      
 # What makes a perfect incubator for co-living?
+![](/PittCo.png)
+
+Pittsburgh represents a city well aligned with circumstances for co-living. Apart from 68 Colleges and Universities churning out over 40'000 graduates a year, immigration statistics show that employment and other opportunities have made the developing city a hotbed for the next generation.
 
 
 
