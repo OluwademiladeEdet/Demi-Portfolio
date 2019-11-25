@@ -56,5 +56,10 @@ Co-living as a modern concept loosely dates back nearly a century in the form of
 ![](/Colive.png)
 
 
+     Pittsburgh is the perfect fit for co-living because it has the perfect mix of scenario's for it to thrive.
+     
+# What makes a perfect incubator for co-living?
+
+
 
 
