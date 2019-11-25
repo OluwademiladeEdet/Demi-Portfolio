@@ -45,7 +45,7 @@ Aside from steel, Pittsburgh has led in manufacturing of aluminum, glass, shipbu
 
 Today, Google, Apple Inc., Bosch, Facebook, Uber, Nokia, Autodesk, Microsoft and IBM are among 1,600 technology firms generating $20.7 billion in annual Pittsburgh payrolls. The area has served as the long-time federal agency headquarters for cyber defense, software engineering, robotics, energy research and the nuclear navy. The area is home to 68 colleges and universities, including research and development leaders Carnegie Mellon University and the University of Pittsburgh. The nation's eighth-largest bank, eight Fortune 500 companies, and six of the top 300 U.S. law firms make their global headquarters in the area, while RAND, BNY Mellon, Nova, FedEx, Bayer and NIOSH have regional bases that helped Pittsburgh become the sixth-best area for U.S. job growth.
 
-![](/Pittsburgh.png)
+
 
 # What is co-living?
 
