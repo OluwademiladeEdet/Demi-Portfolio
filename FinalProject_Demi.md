@@ -45,4 +45,14 @@ Aside from steel, Pittsburgh has led in manufacturing of aluminum, glass, shipbu
 
 Today, Google, Apple Inc., Bosch, Facebook, Uber, Nokia, Autodesk, Microsoft and IBM are among 1,600 technology firms generating $20.7 billion in annual Pittsburgh payrolls. The area has served as the long-time federal agency headquarters for cyber defense, software engineering, robotics, energy research and the nuclear navy. The area is home to 68 colleges and universities, including research and development leaders Carnegie Mellon University and the University of Pittsburgh. The nation's eighth-largest bank, eight Fortune 500 companies, and six of the top 300 U.S. law firms make their global headquarters in the area, while RAND, BNY Mellon, Nova, FedEx, Bayer and NIOSH have regional bases that helped Pittsburgh become the sixth-best area for U.S. job growth.
 
+![](/Pittsburgh.png)
+
+# What is co-living?
+
+Co-living is a type of intentional community providing shared housing for people with shared intentions. This may simply be coming together for activities such as meals and discussion in the common living areas yet may extend to shared workspace and collective endeavours such as living more sustainably.
+
+Co-living as a modern concept loosely dates back nearly a century in the form of tenements yet may also be considered related to much older forms of communal living such as the longhouse. Its contemporary form has only gained prominence in recent years as a combination of factors have led to interest in this type of living space, including a lack of housing opportunities, the cost of independent accommodation and raising finance to purchase, plus a growing interest in lifestyles not dependent upon long-term contracts.
+
+
+
 
